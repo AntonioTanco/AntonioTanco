@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hi 👋🏻, I'm Antonio: <br/></h1>
+
+<h2>👨‍💻 System Admin Projects:</h2>
+
+<b>Active Directory (Windows Server 2019)</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> 🤳 Hire me:</h2>
+
+  - [Linkedin](https://www.linkedin.com/in/antonio-tanco-a74959175/)
+
 
 <!--
 **AntonioTanco/AntonioTanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
