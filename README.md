@@ -4,6 +4,9 @@
 
 <h2>👨‍🎓 Certifications</h2>
 
+<b>ISC^2 Cybersecurity</b>
+  - https://www.credly.com/badges/a81c0cd1-d957-4324-8f94-7bf718f71b65/public_url
+
 <b>Google IT Support</b>
   - https://www.coursera.org/account/accomplishments/specialization/certificate/RNJ76TWSKEAS
 
