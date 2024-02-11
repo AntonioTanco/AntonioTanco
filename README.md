@@ -1,6 +1,6 @@
 <h1>Hi 👋🏻, I'm Antonio: <br/></h1>
 
-🌱 I’m currently learning the in's and out's of System Administration. IT is not only a passion for me but I actively teach myself programming as a hobby. The projects I tend to create are custom enterprise solutions stemming from real world experiences I've seen first hand from working in the IT Industry.
+🌱 I’m currently learning the in's and out's of System Administration. IT is not only a passion for me but I actively teach myself programming as a hobby. The projects I tend to create are custom solutions stemming from real world experiences I've seen first hand from working in the IT Industry.
 
 <h2>👨‍🎓 Certifications</h2>
 
@@ -21,13 +21,18 @@
 
 <h2>👨‍💻 System Admin Projects:</h2>
 
-<b>Active Directory (Windows Server 2019)</b>
+<b>Deploying Active Directory (Windows Server 2019)</b>
   - [Active Directory Home Lab](https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main)
 
 <h2>⌨️ Coding Projects:</h2>
 
-<b>Backend RESTful Note Taking Application Created Using FastAPI</b>
-  - [FastAPI Todo Application](https://github.com/AntonioTanco/FastAPI---TODO-Application)
+<b>Backend REST API - Note Taking Application Created Using FastAPI</b>
+  - 🔥 [FastAPI Todo Application](https://github.com/AntonioTanco/FastAPI---TODO-Application)
+
+<b>Azure Dev Environment - Linux Dev Environment Using Terraform+Azure</b>
+  - 🛠️ [Azure Dev Environment](https://github.com/AntonioTanco/Terraform-Dev-Environment---Azure/tree/main)
+
+<b>Zero Trust Dev Environment - Private Linux Dev Environment Using Terraform+Azure and Twingate</b>
 
 <h2> 🤳 Hire me:</h2>
 
