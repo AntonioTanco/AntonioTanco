@@ -32,7 +32,8 @@
 <b>Azure Dev Environment - Linux Dev Environment Using Terraform+Azure</b>
   - 🛠️ [Azure Dev Environment](https://github.com/AntonioTanco/Terraform-Dev-Environment---Azure/tree/main)
 
-<b>Zero Trust Dev Environment - Private Linux Dev Environment Using Terraform+Azure and Twingate</b>
+<b>Zero Trust Dev Environment - Private Linux Dev Environment Using Terraform+Azure and Twingate ZTNA</b>
+  - ⛔ [ZTNA Private Azure Dev Environment](https://github.com/AntonioTanco/Twingate-Private-Azure-VM)
 
 <h2> 🤳 Hire me:</h2>
 
