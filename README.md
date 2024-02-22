@@ -44,7 +44,7 @@
 
 🔭 I’m currently working on a project which programmatically solves an issue I've constantly seen occur in ALL the IT environments I've worked in so far. I'm working on creating a Backend application that can dynamically store, check and validate users login sessions against their assigned assets programmically using Python in hopes of streamlining the Asset Management Lifecycle process for all.
 
-You can follow this project here @ [Asset Management Project](https://github.com/AntonioTanco/asset-management-project)
+You can follow this project here @ [Asset Management Project](https://github.com/AntonioTanco/FastAPI-GraphQL-Asset-Management)
 <!--
 **AntonioTanco/AntonioTanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
