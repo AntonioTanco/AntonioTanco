@@ -4,34 +4,25 @@
 
 <h2>👨‍🎓 Certifications</h2>
 
-<b>ISC<sup>2</sup> Cybersecurity</b>
-  - https://www.credly.com/badges/a81c0cd1-d957-4324-8f94-7bf718f71b65/public_url
-
-<b>Google IT Support</b>
-  - https://www.coursera.org/account/accomplishments/specialization/certificate/RNJ76TWSKEAS
-
-<b>Learn Powershell<b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/37a775c61b8540fe9dd54e384ca1c41d
-
-<b>Bash Scripting<b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/37c55263a9f1b1f7603f7551c293ecbd
-
-<b>Intro To Linux<b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/54de574543f242baaf263227f82073bf
-
-<b>Design Database With PostgresSQL</b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/5f64e3b492de0000131ecbe0
-
-<b>Learn SQL<b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/042a4e5884e3eb6ea1f2a12be6abb851
-
-<b>Learn Powershell<b>
-  - https://www.codecademy.com/profiles/bitPro27636/certificates/37a775c61b8540fe9dd54e384ca1c41d
+| Certification  | Link |
+| ------------- | ------------- |
+| <b>ISC<sup>2</sup> Cybersecurity</b>  | https://www.credly.com/badges/a81c0cd1-d957-4324-8f94-7bf718f71b65/public_url  |
+| <b>Google IT Support</b>  | https://www.coursera.org/account/accomplishments/specialization/certificate/RNJ76TWSKEAS  |
+| <b>Learn Powershell</b>  | https://www.codecademy.com/profiles/bitPro27636/certificates/37a775c61b8540fe9dd54e384ca1c41d  |
+| <b>Bash Scripting<b>  | https://www.codecademy.com/profiles/bitPro27636/certificates/37c55263a9f1b1f7603f7551c293ecbd  |
+| <b>Intro To Linux<b>  | https://www.codecademy.com/profiles/bitPro27636/certificates/54de574543f242baaf263227f82073bf  |
+| <b>Design Database With PostgresSQL</b>  | https://www.codecademy.com/profiles/bitPro27636/certificates/5f64e3b492de0000131ecbe0  |
+| <b>Learn SQL<b>  | https://www.codecademy.com/profiles/bitPro27636/certificates/042a4e5884e3eb6ea1f2a12be6abb851  |
 
 <h2>👨‍💻 System Admin Projects:</h2>
 
 <b>Deploying Active Directory (Windows Server 2019)</b>
   - [Active Directory Home Lab](https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main)
+
+<h2>🧰 Networking Projects:</h2>
+
+<b>Deploying/Configurating Pfsense Firewall (Linux)</b>
+  - [PFSense Lab](https://github.com/AntonioTanco/Pfsense-Lab)
 
 <h2>⌨️ Coding Projects:</h2>
 
