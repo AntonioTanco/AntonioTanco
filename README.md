@@ -32,8 +32,11 @@
 <b>Azure Dev Environment - Linux Dev Environment Using Terraform+Azure</b>
   - 🛠️ [Azure Dev Environment](https://github.com/AntonioTanco/Terraform-Dev-Environment---Azure/tree/main)
 
-<b>Zero Trust Dev Environment - Private Linux Dev Environment Using Terraform+Azure and Twingate ZTNA</b>
+<b>Zero Trust Dev Environment - Private Linux Dev Environment Using Terraform+Azure and Twingate VPN</b>
   - ⛔ [ZTNA Private Azure Dev Environment](https://github.com/AntonioTanco/Twingate-Private-Azure-VM)
+
+<b>Powershell - Disabling IPv6 via Powershell<b>
+  - ⚙️ [CVE 2024-38063 - Disable IPv6 via Powershell](https://github.com/AntonioTanco/Disable-IPv6-via-Powershell)
 
 <h2> 🤳 Hire me:</h2>
 
