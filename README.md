@@ -17,7 +17,10 @@
 <h2>👨‍💻 System Admin Projects:</h2>
 
 <b>Deploying Active Directory (Windows Server 2019)</b>
-  - [Active Directory Home Lab](https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab I](https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main)
+
+<b>Deploying Active Directory Using Powershell (Windows Server 2019)</b>
+  - [Active Directory Home Lab II](https://github.com/AntonioTanco/Deploying-Active-Directory-Using-Powershell)
 
 <h2>🧰 Networking Projects:</h2>
 
