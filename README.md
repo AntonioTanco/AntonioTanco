@@ -27,6 +27,10 @@
 <b>Deploying/Configurating Pfsense Firewall (Linux)</b>
   - [PFSense Lab](https://github.com/AntonioTanco/Pfsense-Lab)
 
+<b>Networking Two Linux Servers Using Netplan (Linux)</b>
+
+  - [Linux Networking](https://github.com/AntonioTanco/Networking-Two-Linux-Servers-Using-Netplan)
+
 <h2>⌨️ Coding Projects:</h2>
 
 <b>Backend REST API - Note Taking Application Created Using FastAPI</b>
