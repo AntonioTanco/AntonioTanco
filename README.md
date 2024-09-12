@@ -29,7 +29,7 @@
 
 <b>Networking Two Linux Servers Using Netplan (Linux)</b>
 
-  - [Linux Networking](https://github.com/AntonioTanco/Networking-Two-Linux-Servers-Using-Netplan)
+  - [Linux Networking Lab I](https://github.com/AntonioTanco/Networking-Two-Linux-Servers-Using-Netplan)
 
 <h2>⌨️ Coding Projects:</h2>
 
