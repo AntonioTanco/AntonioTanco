@@ -31,6 +31,11 @@
 
   - [Linux Networking Lab I](https://github.com/AntonioTanco/Networking-Two-Linux-Servers-Using-Netplan)
 
+<h2>🔐 Cybersecurity Projects:</h2>
+
+<b>File Integrity Checker made in Python</b>
+  - [File Integrity Checker I](https://github.com/AntonioTanco/File-Integrity-Checker)
+
 <h2>⌨️ Coding Projects:</h2>
 
 <b>Backend REST API - Note Taking Application Created Using FastAPI</b>
