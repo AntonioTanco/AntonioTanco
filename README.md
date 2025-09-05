@@ -19,7 +19,7 @@
 <b>Deploying Active Directory (Windows Server 2019)</b>
   - [Active Directory Home Lab I](https://github.com/AntonioTanco/ActiveDirectoryLab/tree/main)
 
-<b>Automating Active Directory Deployment Using Powershell (Windows Server 2019)</b>
+<b>Automatically Deploying Active Directory using Powershell (Windows Server 2019)</b>
   - [Active Directory Home Lab II](https://github.com/AntonioTanco/Deploying-Active-Directory-Using-Powershell)
 
 <h2>🧰 Networking Projects:</h2>
