@@ -33,8 +33,8 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-<b>Cross-Platform File Integrity Checker made in Python Using Hashlib</b>
-  - [File Integrity Checker I](https://github.com/AntonioTanco/File-Integrity-Checker)
+<b>Cross-Platform File Integrity Monitor made in Python Using Hashlib</b>
+  - [File Integrity Monitor I](https://github.com/AntonioTanco/File-Integrity-Checker)
 
 <h2>⌨️ Coding Projects:</h2>
 
